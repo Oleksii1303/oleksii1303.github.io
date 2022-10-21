@@ -1,2 +1,2 @@
 # oleksii1303.github.io
-[a link](/main/index.html)
+[a link](oleksii1303.github.io)

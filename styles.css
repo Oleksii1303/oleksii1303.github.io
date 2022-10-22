@@ -41,7 +41,7 @@ html {
 }
 
 .flip-card-3D-wrapper {
-  width: 200px;
+  width: 60vw;
   height: 350px;
   position: static;
   -o-perspective: 900px;

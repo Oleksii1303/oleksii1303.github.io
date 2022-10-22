@@ -1,0 +1,64 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+.header {
+	position: relative;
+	height: 100%;
+  	background: center/cover;
+  	-webkit-mask:linear-gradient(to top, transparent, white, transparent);
+}
+.header-text {
+	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+  	transform: translate(-50%, -50%);
+  	text-align: center;
+  }
+ h1 {
+ 	color: white;
+ 	font-family: 'Open Sans', sans-serif;
+}
+p {
+	color: black;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14pt;
+}
+.card{
+	background-color: transparent;
+	width: 90vw;
+	border-style: none;
+	border-top: solid 10px white;
+	border-bottom: solid 10px white;
+}
+.btn-link {
+	color: black;
+	font-size: 15pt;
+	font-family: 'Open Sans', sans-serif;
+	width: 100%;
+}
+.accordion {
+	padding-top: 50px;
+	margin-bottom: 25px;
+  }
+.col-md-4 p, .col-md-4 h3, .col-md-6 p, .col-md-6 h3, .col-md-3 p, .col-md-3 h3 {
+	text-align: left;
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+	border: 2px solid black;
+}
+br {
+	line-height: 50px;
+}
+a {
+	color: white;
+}
+.container3 p, .container3 h3 {
+	text-align: center;
+	margin-top: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.navbar-toggler {
+	border: 0;
+}

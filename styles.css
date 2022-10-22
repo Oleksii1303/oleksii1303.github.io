@@ -41,8 +41,8 @@ html {
 }
 
 .flip-card-3D-wrapper {
-  width: 350px;
-  height: 500px;
+  width: 250px;
+  height: 400px;
   position: static;
   -o-perspective: 900px;
   -webkit-perspective: 900px;
@@ -51,7 +51,6 @@ html {
   display: flex;
   flex: none;
   scroll-snap-align: start;
-  margin: 2%;
   word-wrap: break-word;
 
 }
@@ -91,7 +90,7 @@ html {
 }
 .order-btn{
   background: transparent;
-  font-size: 14pt;
+  font-size: 20px;
   position:absolute;
   right:0;
   left:0;
@@ -164,11 +163,10 @@ a {
   display: flex;
   overflow-x: scroll;
   scroll-behavior: smooth;
-  height: 600px;
+  height: 500px;
   align-content: center;
   align-items: center;
   padding-right: 5%;
-  padding-left: 5%;
 }
 .btn-scroll{
   height: 50px;
